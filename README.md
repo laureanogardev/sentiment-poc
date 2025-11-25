@@ -1,6 +1,18 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-green)
+
 # 🧠 Sentiment Analysis App (OpenAI Powered)
 
 A lightweight, production-ready sentiment analysis web application built with **Streamlit**, **Python**, and **OpenAI's Responses API**.
+
+---
+
+## 🎥 Demo
+
+![Demo](demo.gif)
+
+---
 
 The app allows users to:
 
@@ -35,6 +47,8 @@ This project is ideal for demos, client applications, internal analytics, and AI
 
 ## 📂 Project Structure
 
+
+
 sentiment-poc/
 │
 ├── app/
@@ -51,7 +65,6 @@ sentiment-poc/
 ├── .gitignore
 ├── requirements.txt
 └── README.md # ← You are here
-
 
 ---
 
@@ -189,3 +202,4 @@ Pull requests, issues, and suggestions are welcome.
 ## 📄 License
 
 MIT License — free to use and modify.
+
